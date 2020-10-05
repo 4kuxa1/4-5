@@ -1,0 +1,12 @@
+C:\Users\devpa\Desktop\Новая папка\4-5\bin\Debug\netcoreapp3.1\4-5.exe
+C:\Users\devpa\Desktop\Новая папка\4-5\bin\Debug\netcoreapp3.1\4-5.deps.json
+C:\Users\devpa\Desktop\Новая папка\4-5\bin\Debug\netcoreapp3.1\4-5.runtimeconfig.json
+C:\Users\devpa\Desktop\Новая папка\4-5\bin\Debug\netcoreapp3.1\4-5.runtimeconfig.dev.json
+C:\Users\devpa\Desktop\Новая папка\4-5\bin\Debug\netcoreapp3.1\4-5.dll
+C:\Users\devpa\Desktop\Новая папка\4-5\bin\Debug\netcoreapp3.1\4-5.pdb
+C:\Users\devpa\Desktop\Новая папка\4-5\obj\Debug\netcoreapp3.1\4-5.AssemblyInfoInputs.cache
+C:\Users\devpa\Desktop\Новая папка\4-5\obj\Debug\netcoreapp3.1\4-5.AssemblyInfo.cs
+C:\Users\devpa\Desktop\Новая папка\4-5\obj\Debug\netcoreapp3.1\4-5.csproj.CoreCompileInputs.cache
+C:\Users\devpa\Desktop\Новая папка\4-5\obj\Debug\netcoreapp3.1\4-5.dll
+C:\Users\devpa\Desktop\Новая папка\4-5\obj\Debug\netcoreapp3.1\4-5.pdb
+C:\Users\devpa\Desktop\Новая папка\4-5\obj\Debug\netcoreapp3.1\4-5.genruntimeconfig.cache
